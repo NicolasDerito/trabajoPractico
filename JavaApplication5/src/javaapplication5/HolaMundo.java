@@ -64,12 +64,7 @@ public class HolaMundo {
                 numeroCuatro = input.nextInt();
                 //Para pasarlo a double se le pone entre paretesis antes de las variables a dividir. 
                 System.out.println((double)numeroTres / numeroCuatro);
-                
-                System.out.print("Ingresa tu nombre: ");
-                input.nextLine();
-                String nombre = input.next();  // ERROR
-                System.out.println("Hola, " + nombre);
-
+     
     }
     
 }
